@@ -6,7 +6,7 @@ entry_logoURL: ''
 entry_lang: 'en'
 entry_country: 'Romania'
 entry_sector: 'council'
-entry_category: ['education']
+entry_category: 'education'
 entry_protocol: ['git']
 entry_license: 'GNU-3'
 m_category: ['public', 'ngo']
