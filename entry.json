@@ -1,56 +1,56 @@
 {
-  "entry_name": "Govstrap.io - branch",
+	"entry_name": "Govstrap.io - branch",
 
-  "entry_type": "software",
+	"entry_type": "software",
 
-  "entry_descripton": "Front-end web kit and boilerplate for building web apps or small sites reflecting the GOV.UK designs patterns using Pug(Jade) and Sass / Scss. Govstrap.io is a port of the GOV.UK standard web theme to the Bootstrap framework which allows developers with working knowledge of Bootstrap to build GOV.UK related sites without learning the details of the GDS methods. This software enables the developer to take advantage of the significant investments made by GDS in accessibility and device compatibility by re-using the GDS theme.",
+	"entry_descripton": "Front-end web kit and boilerplate for building web apps or small sites reflecting the GOV.UK designs patterns using Pug(Jade) and Sass / Scss. Govstrap.io is a port of the GOV.UK standard web theme to the Bootstrap framework which allows developers with working knowledge of Bootstrap to build GOV.UK related sites without learning the details of the GDS methods. This software enables the developer to take advantage of the significant investments made by GDS in accessibility and device compatibility by re-using the GDS theme.",
 
-  "entry_url": "https://github.com/JohnMica/govstrap.io",
+	"entry_url": "https://github.com/JohnMica/govstrap.io",
 
-  "entry_logoURL": "",
+	"entry_logoURL": "",
 
-  "entry_lang": "ro-RO",
+	"entry_lang": "ro-RO",
 
-  "entry_origin_country": "Romania",
+	"entry_origin_country": "Romania",
 
-  "entry_sector": "education",
+	"entry_sector": "education",
 
-  "entry_category": "studying",
+	"entry_category": "studying",
 
-  "entry_license": "GNU-3",
+	"entry_license": "GNU-3",
 
-  "developer_category": ["ngo", "public"],
+	"developer_category": ["ngo", "public"],
 
-  "developer_geolocation": {
-    "lat": 44.434089,
-    "long": 26.092751
-  },
+	"developer_geolocation": {
+		"lat": 44.434089,
+		"long": 26.092751
+	},
 
-  "developer_name": "JohnMica",
+	"developer_name": "JohnMica",
 
-  "developer_logo_url": "",
+	"developer_logo_url": "",
 
-  "developer_url": "https://johnmica.me",
-	"entry_maintainers": 
-		{
-			"name" : "John Mica" ,
-			"link": "//johnmica.me",
-			"repo": "//github.com"
-		},
-			{
-			"name" : "Example George" ,
+	"developer_url": "https://johnmica.me",
+	"entry_maintainers": [{
+			"name": "John Mica",
 			"link": "//johnmica.me",
 			"repo": "//github.com"
 		},
 		{
-			"name" : "Michael Doe" ,
+			"name": "Example George",
 			"link": "//johnmica.me",
 			"repo": "//github.com"
 		},
 		{
-			"name" : "Jane Doe" ,
+			"name": "Michael Doe",
+			"link": "//johnmica.me",
+			"repo": "//github.com"
+		},
+		{
+			"name": "Jane Doe",
 			"link": "//johnmica.me",
 			"repo": "//github.com"
 		}
+	]
 
 }
