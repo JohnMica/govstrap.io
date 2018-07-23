@@ -30,6 +30,27 @@
 
   "developer_logo_url": "",
 
-  "developer_url": "https://johnmica.me"
+  "developer_url": "https://johnmica.me",
+	"entry_maintainers": 
+		{
+			"name" : "John Mica" ,
+			"link": "//johnmica.me",
+			"repo": "//github.com"
+		},
+			{
+			"name" : "Example George" ,
+			"link": "//johnmica.me",
+			"repo": "//github.com"
+		},
+		{
+			"name" : "Michael Doe" ,
+			"link": "//johnmica.me",
+			"repo": "//github.com"
+		},
+		{
+			"name" : "Jane Doe" ,
+			"link": "//johnmica.me",
+			"repo": "//github.com"
+		}
 
 }
