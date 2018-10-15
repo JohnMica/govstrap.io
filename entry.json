@@ -1,57 +1,48 @@
 {
-	"entry_name": "Govstrap.io - branch",
-
-	"entry_type": "software",
-
-	"entry_descripton": "Front-end web kit and boilerplate for building web apps or small sites reflecting the GOV.UK designs patterns using Pug(Jade) and Sass / Scss. Govstrap.io is a port of the GOV.UK standard web theme to the Bootstrap framework which allows developers with working knowledge of Bootstrap to build GOV.UK related sites without learning the details of the GDS methods. This software enables the developer to take advantage of the significant investments made by GDS in accessibility and device compatibility by re-using the GDS theme.",
-
-	"entry_url": "https://github.com/JohnMica/govstrap.io",
-
-	"entry_logoURL": "",
-
-	"entry_lang": "ro-RO",
-
-	"entry_origin_country": "Romania",
-
-	"entry_sector": "education",
-
-	"entry_category": "studying",
-
-	"entry_license": "GNU-3",
-
-	"developer_category": ["ngo", "public"],
-
-	"developer_geolocation": {
-		"lat": 44.434089,
-		"long": 26.092751
-	},
-
-	"developer_name": "JohnMica",
-
-	"developer_logo_url": "",
-
-	"developer_url": "https://johnmica.me",
-
-	"entry_maintainers": [{
-			"name": "John Mica",
-			"link": "//johnmica.me",
-			"repo": "//github.com"
-		},
-		{
-			"name": "Example George",
-			"link": "//johnmica.me",
-			"repo": "//github.com"
-		},
-		{
-			"name": "Michael Doe",
-			"link": "//johnmica.me",
-			"repo": "//github.com"
-		},
-		{
-			"name": "Jane Doe",
-			"link": "//johnmica.me",
-			"repo": "//github.com"
-		}
-	]
-
+    "name": "Govstrap.io - branch",
+    "entry_type": "software",
+    "description": "Front-end web kit and boilerplate for building web apps or small sites reflecting the GOV.UK designs patterns using Pug(Jade) and Sass / Scss. Govstrap.io is a port of the GOV.UK standard web theme to the Bootstrap framework which allows developers with working knowledge of Bootstrap to build GOV.UK related sites without learning the details of the GDS methods. This software enables the developer to take advantage of the significant investments made by GDS in accessibility and device compatibility by re-using the GDS theme.",
+    "official_url": "https://github.com/JohnMica/govstrap.io",
+    "repository": "https://github.com/JohnMica/govstrap.io",
+    "logo_url": "",
+    "language": [ "RO", "EN" ],
+    "origin_country": "Romania",
+    "sector": [ "education" ],
+    "category": [ "studying", "testing" ],
+    "license": [ "GNU-3", "MIT" ],
+    "developers": [ {
+        "developer_name": "JohnMica",
+        "developer_logo_url": "johnmica.me/logo",
+        "developer_url": "https://johnmica.me",
+        "developer_category": "Developer"
+    } ],
+    "maintainers": [ {
+            "maintainer_name": "John Mica",
+            "maintainer_url": "//johnmica.me",
+            "maintainer_logo_url": "",
+            "maintainer_repository": "//github.com"
+        },
+        {
+            "maintainer_name": "Example George",
+            "maintainer_url": "//johnmica.me",
+            "maintainer_logo_url": "",
+            "maintainer_repository": "//github.com"
+        },
+        {
+            "maintainer_name": "Michael Doe",
+            "maintainer_url": "//johnmica.me",
+            "maintainer_logo_url": "",
+            "maintainer_repository": "//github.com"
+        }
+    ],
+    "users": [ {
+        "user_name": "John Mica",
+        "user_location": "Bucharest, Ro",
+        "user_logo_url": "",
+        "user_url": "johnmica.me",
+        "user_geolocation": {
+            "lat": 44.434089,
+            "long": 26.092751
+        }
+    } ]
 }
